@@ -1,0 +1,21 @@
+<head>
+  <title>My first webpage!</title>
+  <link href="css/styles.css" rel="sylesheet" type="text/css">
+</head>
+
+
+h1 {
+  color: blue;
+  test-align: center;
+}
+h2 {
+  color: green;
+  font-style: italics;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+}
+ul {
+  font-family: line-height 40px;
+}
